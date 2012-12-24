@@ -12,7 +12,6 @@ Visual\ Stucio*
 *.opensdf
 *.user
 *.[Oo]bj
-*.pdb
 *.aps
 *.pch
 *.vspscc
@@ -33,7 +32,6 @@ obj/
 
 #Project files
 [Bb]uild/
-[Dd]ebug/
 
 # Office Temp Files
 ~$*
@@ -41,3 +39,4 @@ docs/~$*
 docs/._*
 
 [Ll]og
+# *.pdb
